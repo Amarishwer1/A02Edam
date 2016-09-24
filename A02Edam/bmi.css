@@ -1,0 +1,42 @@
+h1{
+	color: lightblue;
+	}
+#head{
+		display: inline;
+	}
+	
+
+p{
+	color: lightsteelblue;
+	font-size: 150%;
+}
+iframe{
+	padding-left: 10px;
+    margin: none;
+	border: none;
+}
+header, footer {
+    padding: 1em;
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
+}
+
+body{
+    margin: 0% 12% 0% 12%;
+	background-image: url("sjef.jpg");
+}
+#button{
+	padding-left: 320px;
+}
+form{
+	padding-top: 25px;
+	padding-left: 75px;
+}
+.comments{
+	width: 75%;
+	max-height: 30%;
+	border: 2px solid #bbb;
+	border-radius: 4px;
+}
